@@ -93,12 +93,6 @@ ARG="1 2 3"; ./push_swap $ARG               # no output (already sorted)
 
 ---
 
-## 📄 License
-
-MIT
-
----
-
 ## 👤 Author
 
 * Swann — @xSwann
